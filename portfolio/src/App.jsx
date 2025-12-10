@@ -1,9 +1,11 @@
 import React from "react";
+import './App.css';
+import Navbar from "./navbar.jsx";
 
 function App() {
   return (
     <>
-       <h2>kiran</h2>
+      <Navbar/>
     </>
   )
 }
