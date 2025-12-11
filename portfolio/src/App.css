@@ -1,12 +1,20 @@
 #navbar{
   gap: 20px;
+  height: 30px;
+  width: 100%;
   margin-left: auto;
+  background-color: blue;
+  display: flex;
+  align-items: center;
+  justify-items: center;  
+  justify-content: space-evenly;
 }
 #nav-list{
  list-style: none;
   display: flex;
   align-items: center;
   gap: 20px;
+  justify-content: space-evenly;
 }
 li{
   cursor: pointer;
