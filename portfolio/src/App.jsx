@@ -7,7 +7,6 @@ import Home from "./home.jsx";
 function App() {
   return (
     <>
-      <Navbar/>
       <Home/>
     </>
   )
