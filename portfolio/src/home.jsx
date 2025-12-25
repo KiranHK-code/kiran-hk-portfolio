@@ -12,6 +12,11 @@ export default function home() {
         </div>
         <div className='image'>
         </div>
+        <div className='details'>
+          <p id='para2'>I am a <p id='para3'>Frontend Developer</p></p>
+          <p id='para4'>Backend Developer</p>
+          <p id='para5'>Full Stack Developer</p>
+        </div>
       </div>
     </>
   )
